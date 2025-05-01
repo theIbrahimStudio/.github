@@ -1,3 +1,5 @@
+![Ibrahim Studio - Banner Cover](../assets/banner.png)
+
 ### Welcome to **Ibrahim Studio**,
 
 A dynamic business hub at the intersection of **design**, **marketing**, **software**, and **AI**. We empower brands to thrive in an ever-evolving digital world through creativity, innovation, and robust technology solutions.
